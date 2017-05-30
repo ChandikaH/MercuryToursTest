@@ -1,0 +1,749 @@
+2017-05-21 08:54:26 INFO  LoginPage:69 - User details entered
+2017-05-21 08:54:31 INFO  LoginPage:55 - User details entered and click Login button
+2017-05-21 08:59:30 INFO  LoginPage:69 - User details entered
+2017-05-21 08:59:35 INFO  LoginPage:55 - User details entered and click Login button
+2017-05-21 11:04:06 INFO  LoginPage:71 - User details entered
+2017-05-21 11:04:11 INFO  LoginPage:57 - User details entered and click Login button
+2017-05-21 11:06:09 INFO  LoginPage:71 - User details entered
+2017-05-21 11:06:15 INFO  LoginPage:57 - User details entered and click Login button
+2017-05-21 11:06:17 INFO  FlightFinderPage:90 - Flight details entered
+2017-05-21 11:06:18 INFO  FlightFinderPage:64 - Flight details entered and navigated to Flight Selection Page
+2017-05-21 11:06:21 INFO  FlightSelectionPage:68 - Click Continue button and navigated to Flight Booking Page
+2017-05-21 12:17:01 INFO  HomePage:41 - Home Page loaded successfully
+2017-05-21 12:17:02 INFO  HomePage:67 - Click SingOn button and navigated to Login Page
+2017-05-21 12:17:02 INFO  LoginPage:42 - Login Page Displayed
+2017-05-21 12:17:04 INFO  LoginPage:72 - User details entered
+2017-05-21 12:17:09 INFO  LoginPage:58 - User details entered and click Login button
+2017-05-21 12:17:09 INFO  FlightFinderPage:53 - Flight Finder Page loaded successfully
+2017-05-21 12:17:11 INFO  FlightFinderPage:93 - Flight details entered
+2017-05-21 12:17:15 INFO  FlightFinderPage:67 - Flight details entered and navigated to Flight Selection Page
+2017-05-21 12:17:15 INFO  FlightSelectionPage:44 - Flight Selection Page loaded successfully
+2017-05-21 12:17:18 INFO  FlightSelectionPage:69 - Click Continue button and navigated to Flight Booking Page
+2017-05-21 12:19:50 INFO  HomePage:41 - Home Page loaded successfully
+2017-05-21 12:19:51 INFO  HomePage:67 - Click SingOn button and navigated to Login Page
+2017-05-21 12:19:51 INFO  LoginPage:42 - Login Page Displayed
+2017-05-21 12:19:53 INFO  LoginPage:72 - User details entered
+2017-05-21 12:19:58 INFO  LoginPage:58 - User details entered and click Login button
+2017-05-21 12:19:59 INFO  FlightFinderPage:53 - Flight Finder Page loaded successfully
+2017-05-21 12:20:00 INFO  FlightFinderPage:93 - Flight details entered
+2017-05-21 12:20:05 INFO  FlightFinderPage:67 - Flight details entered and navigated to Flight Selection Page
+2017-05-21 12:20:05 INFO  FlightSelectionPage:44 - Flight Selection Page loaded successfully
+2017-05-21 12:20:07 INFO  FlightSelectionPage:69 - Click Continue button and navigated to Flight Booking Page
+2017-05-21 12:26:57 INFO  HomePage:41 - Home Page loaded successfully
+2017-05-21 12:26:57 INFO  HomePage:67 - Click SingOn button and navigated to Login Page
+2017-05-21 12:26:58 INFO  LoginPage:42 - Login Page Displayed
+2017-05-21 12:27:00 INFO  LoginPage:72 - User details entered
+2017-05-21 12:27:06 INFO  LoginPage:58 - User details entered and click Login button
+2017-05-21 12:27:06 INFO  FlightFinderPage:53 - Flight Finder Page loaded successfully
+2017-05-21 12:27:08 INFO  FlightFinderPage:93 - Flight details entered
+2017-05-21 12:27:12 INFO  FlightFinderPage:67 - Flight details entered and navigated to Flight Selection Page
+2017-05-21 12:27:12 INFO  FlightSelectionPage:44 - Flight Selection Page loaded successfully
+2017-05-21 12:27:14 INFO  FlightSelectionPage:69 - Click Continue button and navigated to Flight Booking Page
+2017-05-21 12:27:16 INFO  FlightBookingPage:64 - Flight Booking Page loaded successfully
+2017-05-21 12:27:18 INFO  FlightBookingPage:84 - Passenger Credit Card details entered
+2017-05-21 12:30:33 INFO  HomePage:41 - Home Page loaded successfully
+2017-05-21 12:30:33 INFO  HomePage:67 - Click SingOn button and navigated to Login Page
+2017-05-21 12:30:34 INFO  LoginPage:42 - Login Page Displayed
+2017-05-21 12:30:36 INFO  LoginPage:72 - User details entered
+2017-05-21 12:30:41 INFO  LoginPage:58 - User details entered and click Login button
+2017-05-21 12:30:42 INFO  FlightFinderPage:53 - Flight Finder Page loaded successfully
+2017-05-21 12:30:43 INFO  FlightFinderPage:93 - Flight details entered
+2017-05-21 12:30:48 INFO  FlightFinderPage:67 - Flight details entered and navigated to Flight Selection Page
+2017-05-21 12:30:48 INFO  FlightSelectionPage:44 - Flight Selection Page loaded successfully
+2017-05-21 12:30:50 INFO  FlightSelectionPage:69 - Click Continue button and navigated to Flight Booking Page
+2017-05-21 12:30:52 INFO  FlightBookingPage:64 - Flight Booking Page loaded successfully
+2017-05-21 12:30:55 INFO  FlightBookingPage:84 - Passenger Credit Card details entered
+2017-05-21 12:30:59 INFO  FlightBookingPage:134 - Passenger details entered
+2017-05-21 12:31:05 INFO  FlightBookingPage:105 - Passenger details entered and navigated to Flight Confirmation Page
+2017-05-21 12:31:05 INFO  FlightConfirmationPage:37 - Flight Booking Confirmation Page loaded successfully
+2017-05-21 13:02:55 INFO  HomePage:41 - Home Page loaded successfully
+2017-05-21 13:02:56 INFO  HomePage:67 - Click SingOn button and navigated to Login Page
+2017-05-21 13:02:56 INFO  LoginPage:42 - Login Page Displayed
+2017-05-21 13:02:58 INFO  LoginPage:72 - User details entered
+2017-05-21 13:03:04 INFO  LoginPage:58 - User details entered and click Login button
+2017-05-21 13:03:04 INFO  FlightFinderPage:53 - Flight Finder Page loaded successfully
+2017-05-21 13:03:06 INFO  FlightFinderPage:93 - Flight details entered
+2017-05-21 13:03:10 INFO  FlightFinderPage:67 - Flight details entered and navigated to Flight Selection Page
+2017-05-21 13:03:10 INFO  FlightSelectionPage:44 - Flight Selection Page loaded successfully
+2017-05-21 13:03:13 INFO  FlightSelectionPage:69 - Click Continue button and navigated to Flight Booking Page
+2017-05-21 13:03:14 INFO  FlightBookingPage:68 - Flight Booking Page loaded successfully
+2017-05-21 13:03:18 INFO  FlightBookingPage:88 - Passenger Credit Card details entered
+2017-05-21 13:03:22 INFO  FlightBookingPage:140 - Passenger details entered
+2017-05-21 13:03:28 INFO  FlightBookingPage:109 - Passenger details entered and navigated to Flight Confirmation Page
+2017-05-21 13:03:28 INFO  FlightConfirmationPage:45 - Flight Booking Confirmation Page loaded successfully
+2017-05-21 13:03:31 INFO  FlightConfirmationPage:58 - User click Logout Button successfully
+2017-05-21 13:03:32 INFO  LoginPage:42 - Login Page Displayed
+2017-05-21 13:24:35 INFO  HomePage:41 - Home Page loaded successfully
+2017-05-21 13:24:36 INFO  HomePage:67 - Click SingOn button and navigated to Login Page
+2017-05-21 13:24:36 INFO  LoginPage:42 - Login Page Displayed
+2017-05-21 13:24:38 INFO  LoginPage:72 - User details entered
+2017-05-21 13:24:43 INFO  LoginPage:58 - User details entered and click Login button
+2017-05-21 13:24:44 INFO  FlightFinderPage:53 - Flight Finder Page loaded successfully
+2017-05-21 13:24:45 INFO  FlightFinderPage:93 - Flight details entered
+2017-05-21 13:24:50 INFO  FlightFinderPage:67 - Flight details entered and navigated to Flight Selection Page
+2017-05-21 13:24:50 INFO  FlightSelectionPage:44 - Flight Selection Page loaded successfully
+2017-05-21 13:24:52 INFO  FlightSelectionPage:69 - Click Continue button and navigated to Flight Booking Page
+2017-05-21 13:24:54 INFO  FlightBookingPage:68 - Flight Booking Page loaded successfully
+2017-05-21 13:24:57 INFO  FlightBookingPage:88 - Passenger Credit Card details entered
+2017-05-21 13:25:02 INFO  FlightBookingPage:140 - Passenger details entered
+2017-05-21 13:25:07 INFO  FlightBookingPage:109 - Passenger details entered and navigated to Flight Confirmation Page
+2017-05-21 13:25:07 INFO  FlightConfirmationPage:45 - Flight Booking Confirmation Page loaded successfully
+2017-05-21 13:52:16 INFO  HomePage:41 - Home Page loaded successfully
+2017-05-21 13:52:17 INFO  HomePage:67 - Click SingOn button and navigated to Login Page
+2017-05-21 13:52:17 INFO  LoginPage:42 - Login Page Displayed
+2017-05-21 13:52:19 INFO  LoginPage:72 - User details entered
+2017-05-21 13:53:04 INFO  LoginPage:58 - User details entered and click Login button
+2017-05-21 13:53:04 INFO  FlightFinderPage:53 - Flight Finder Page loaded successfully
+2017-05-21 13:53:06 INFO  FlightFinderPage:93 - Flight details entered
+2017-05-21 13:53:10 INFO  FlightFinderPage:67 - Flight details entered and navigated to Flight Selection Page
+2017-05-21 13:53:10 INFO  FlightSelectionPage:44 - Flight Selection Page loaded successfully
+2017-05-21 13:53:13 INFO  FlightSelectionPage:69 - Click Continue button and navigated to Flight Booking Page
+2017-05-21 13:53:52 INFO  FlightBookingPage:68 - Flight Booking Page loaded successfully
+2017-05-21 13:53:55 INFO  FlightBookingPage:88 - Passenger Credit Card details entered
+2017-05-21 13:54:00 INFO  FlightBookingPage:140 - Passenger details entered
+2017-05-21 13:54:05 INFO  FlightBookingPage:109 - Passenger details entered and navigated to Flight Confirmation Page
+2017-05-21 13:54:06 INFO  FlightConfirmationPage:45 - Flight Booking Confirmation Page loaded successfully
+2017-05-21 13:54:09 INFO  FlightConfirmationPage:58 - User click Logout Button successfully
+2017-05-21 13:54:10 INFO  LoginPage:42 - Login Page Displayed
+2017-05-21 15:37:43 INFO  HomePage:41 - Home Page loaded successfully
+2017-05-21 15:37:44 INFO  RegistrationPage:65 - Register Page loaded successfully
+2017-05-21 15:37:58 INFO  RegistrationPage:94 - User enter Registration Page and navigate to Register Success Page
+2017-05-21 15:37:59 INFO  RegistrationSuccessPage:39 - Registration Success Page loaded successfully
+2017-05-21 15:38:03 INFO  HeaderPanel:73 - User click Sign Off Button successfully
+2017-05-21 15:38:03 INFO  LoginPage:42 - Login Page Displayed
+2017-05-21 15:38:49 INFO  HomePage:41 - Home Page loaded successfully
+2017-05-21 15:38:51 INFO  RegistrationPage:65 - Register Page loaded successfully
+2017-05-21 15:39:05 INFO  RegistrationPage:94 - User enter Registration Page and navigate to Register Success Page
+2017-05-21 15:39:06 INFO  RegistrationSuccessPage:39 - Registration Success Page loaded successfully
+2017-05-21 15:39:10 INFO  HeaderPanel:73 - User click Sign Off Button successfully
+2017-05-21 15:39:10 INFO  LoginPage:42 - Login Page Displayed
+2017-05-21 15:56:13 INFO  HomePage:41 - Home Page loaded successfully
+2017-05-21 15:56:13 INFO  HomePage:67 - Click SingOn button and navigated to Login Page
+2017-05-21 15:56:14 INFO  LoginPage:42 - Login Page Displayed
+2017-05-21 15:56:16 INFO  LoginPage:72 - User details entered
+2017-05-21 15:56:21 INFO  LoginPage:58 - User details entered and click Login button
+2017-05-21 15:56:22 INFO  FlightFinderPage:53 - Flight Finder Page loaded successfully
+2017-05-21 15:56:23 INFO  FlightFinderPage:93 - Flight details entered
+2017-05-21 15:56:28 INFO  FlightFinderPage:67 - Flight details entered and navigated to Flight Selection Page
+2017-05-21 15:56:28 INFO  FlightSelectionPage:44 - Flight Selection Page loaded successfully
+2017-05-21 15:56:30 INFO  FlightSelectionPage:74 - Click Continue button and navigated to Flight Booking Page
+2017-05-21 15:56:32 INFO  FlightBookingPage:68 - Flight Booking Page loaded successfully
+2017-05-21 15:56:35 INFO  FlightBookingPage:88 - Passenger Credit Card details entered
+2017-05-21 15:56:39 INFO  FlightBookingPage:140 - Passenger details entered
+2017-05-21 15:56:45 INFO  FlightBookingPage:109 - Passenger details entered and navigated to Flight Confirmation Page
+2017-05-21 15:56:45 INFO  FlightConfirmationPage:45 - Flight Booking Confirmation Page loaded successfully
+2017-05-21 15:56:49 INFO  FlightConfirmationPage:58 - User click Logout Button successfully
+2017-05-21 15:56:49 INFO  LoginPage:42 - Login Page Displayed
+2017-05-21 15:56:55 INFO  HomePage:41 - Home Page loaded successfully
+2017-05-21 15:56:56 INFO  HomePage:67 - Click SingOn button and navigated to Login Page
+2017-05-21 15:56:56 INFO  LoginPage:42 - Login Page Displayed
+2017-05-21 15:56:58 INFO  LoginPage:72 - User details entered
+2017-05-21 15:57:52 INFO  LoginPage:58 - User details entered and click Login button
+2017-05-21 15:57:52 INFO  FlightFinderPage:53 - Flight Finder Page loaded successfully
+2017-05-21 15:57:53 INFO  FlightFinderPage:93 - Flight details entered
+2017-05-21 15:57:58 INFO  FlightFinderPage:67 - Flight details entered and navigated to Flight Selection Page
+2017-05-21 15:57:58 INFO  FlightSelectionPage:44 - Flight Selection Page loaded successfully
+2017-05-21 15:58:00 INFO  FlightSelectionPage:74 - Click Continue button and navigated to Flight Booking Page
+2017-05-21 15:58:02 INFO  FlightBookingPage:68 - Flight Booking Page loaded successfully
+2017-05-21 15:58:05 INFO  FlightBookingPage:88 - Passenger Credit Card details entered
+2017-05-21 15:58:10 INFO  FlightBookingPage:140 - Passenger details entered
+2017-05-21 15:58:15 INFO  FlightBookingPage:109 - Passenger details entered and navigated to Flight Confirmation Page
+2017-05-21 15:58:15 INFO  FlightConfirmationPage:45 - Flight Booking Confirmation Page loaded successfully
+2017-05-21 15:58:19 INFO  FlightConfirmationPage:58 - User click Logout Button successfully
+2017-05-21 15:58:19 INFO  LoginPage:42 - Login Page Displayed
+2017-05-21 16:03:41 INFO  HomePage:41 - Home Page loaded successfully
+2017-05-21 16:03:42 INFO  HomePage:67 - Click SingOn button and navigated to Login Page
+2017-05-21 16:03:42 INFO  LoginPage:42 - Login Page Displayed
+2017-05-21 16:03:44 INFO  LoginPage:72 - User details entered
+2017-05-21 16:03:49 INFO  LoginPage:58 - User details entered and click Login button
+2017-05-21 16:03:50 INFO  FlightFinderPage:53 - Flight Finder Page loaded successfully
+2017-05-21 16:03:51 INFO  FlightFinderPage:93 - Flight details entered
+2017-05-21 16:03:56 INFO  FlightFinderPage:67 - Flight details entered and navigated to Flight Selection Page
+2017-05-21 16:03:56 INFO  FlightSelectionPage:44 - Flight Selection Page loaded successfully
+2017-05-21 16:05:25 INFO  FlightSelectionPage:75 - Click Continue button and navigated to Flight Booking Page
+2017-05-21 16:05:26 INFO  FlightBookingPage:68 - Flight Booking Page loaded successfully
+2017-05-21 16:05:30 INFO  FlightBookingPage:88 - Passenger Credit Card details entered
+2017-05-21 16:05:34 INFO  FlightBookingPage:140 - Passenger details entered
+2017-05-21 16:05:40 INFO  FlightBookingPage:109 - Passenger details entered and navigated to Flight Confirmation Page
+2017-05-21 16:05:40 INFO  FlightConfirmationPage:45 - Flight Booking Confirmation Page loaded successfully
+2017-05-21 16:06:41 INFO  FlightConfirmationPage:58 - User click Logout Button successfully
+2017-05-21 16:06:41 INFO  LoginPage:42 - Login Page Displayed
+2017-05-21 16:16:16 INFO  HomePage:41 - Home Page loaded successfully
+2017-05-21 16:16:17 INFO  HomePage:67 - Click SingOn button and navigated to Login Page
+2017-05-21 16:16:17 INFO  LoginPage:42 - Login Page Displayed
+2017-05-21 16:16:19 INFO  LoginPage:72 - User details entered
+2017-05-21 16:16:24 INFO  LoginPage:58 - User details entered and click Login button
+2017-05-21 16:16:24 INFO  FlightFinderPage:53 - Flight Finder Page loaded successfully
+2017-05-21 16:16:26 INFO  FlightFinderPage:93 - Flight details entered
+2017-05-21 16:16:30 INFO  FlightFinderPage:67 - Flight details entered and navigated to Flight Selection Page
+2017-05-21 16:16:30 INFO  FlightSelectionPage:44 - Flight Selection Page loaded successfully
+2017-05-21 16:16:33 INFO  FlightSelectionPage:75 - Click Continue button and navigated to Flight Booking Page
+2017-05-21 16:16:34 INFO  FlightBookingPage:68 - Flight Booking Page loaded successfully
+2017-05-21 16:16:38 INFO  FlightBookingPage:88 - Passenger Credit Card details entered
+2017-05-21 16:16:42 INFO  FlightBookingPage:140 - Passenger details entered
+2017-05-21 16:16:48 INFO  FlightBookingPage:109 - Passenger details entered and navigated to Flight Confirmation Page
+2017-05-21 16:16:48 INFO  FlightConfirmationPage:45 - Flight Booking Confirmation Page loaded successfully
+2017-05-21 16:17:50 INFO  FlightConfirmationPage:58 - User click Logout Button successfully
+2017-05-21 16:17:50 INFO  LoginPage:42 - Login Page Displayed
+2017-05-21 16:19:12 INFO  HomePage:41 - Home Page loaded successfully
+2017-05-21 16:19:14 INFO  HomePage:67 - Click SingOn button and navigated to Login Page
+2017-05-21 16:19:14 INFO  LoginPage:42 - Login Page Displayed
+2017-05-21 16:19:16 INFO  LoginPage:72 - User details entered
+2017-05-21 16:19:22 INFO  LoginPage:58 - User details entered and click Login button
+2017-05-21 16:19:22 INFO  FlightFinderPage:53 - Flight Finder Page loaded successfully
+2017-05-21 16:19:24 INFO  FlightFinderPage:93 - Flight details entered
+2017-05-21 16:19:28 INFO  FlightFinderPage:67 - Flight details entered and navigated to Flight Selection Page
+2017-05-21 16:19:28 INFO  FlightSelectionPage:44 - Flight Selection Page loaded successfully
+2017-05-21 16:19:30 INFO  FlightSelectionPage:75 - Click Continue button and navigated to Flight Booking Page
+2017-05-21 16:19:32 INFO  FlightBookingPage:68 - Flight Booking Page loaded successfully
+2017-05-21 16:19:36 INFO  FlightBookingPage:88 - Passenger Credit Card details entered
+2017-05-21 16:19:40 INFO  FlightBookingPage:140 - Passenger details entered
+2017-05-21 16:19:45 INFO  FlightBookingPage:109 - Passenger details entered and navigated to Flight Confirmation Page
+2017-05-21 16:19:46 INFO  FlightConfirmationPage:45 - Flight Booking Confirmation Page loaded successfully
+2017-05-21 16:19:49 INFO  FlightConfirmationPage:58 - User click Logout Button successfully
+2017-05-21 16:19:50 INFO  LoginPage:42 - Login Page Displayed
+2017-05-21 16:23:47 INFO  HomePage:41 - Home Page loaded successfully
+2017-05-21 16:23:49 INFO  RegistrationPage:65 - Register Page loaded successfully
+2017-05-21 16:24:03 INFO  RegistrationPage:94 - User enter Registration Page and navigate to Register Success Page
+2017-05-21 16:24:03 INFO  RegistrationSuccessPage:39 - Registration Success Page loaded successfully
+2017-05-21 16:24:07 INFO  HeaderPanel:73 - User click Sign Off Button successfully
+2017-05-21 16:24:07 INFO  LoginPage:42 - Login Page Displayed
+2017-05-21 16:24:13 INFO  HomePage:41 - Home Page loaded successfully
+2017-05-21 16:24:15 INFO  RegistrationPage:65 - Register Page loaded successfully
+2017-05-21 16:24:29 INFO  RegistrationPage:94 - User enter Registration Page and navigate to Register Success Page
+2017-05-21 16:24:29 INFO  RegistrationSuccessPage:39 - Registration Success Page loaded successfully
+2017-05-21 16:24:33 INFO  HeaderPanel:73 - User click Sign Off Button successfully
+2017-05-21 16:24:33 INFO  LoginPage:42 - Login Page Displayed
+2017-05-21 16:24:39 INFO  HomePage:41 - Home Page loaded successfully
+2017-05-21 16:24:40 INFO  HomePage:67 - Click SingOn button and navigated to Login Page
+2017-05-21 16:24:40 INFO  LoginPage:42 - Login Page Displayed
+2017-05-21 16:24:42 INFO  LoginPage:72 - User details entered
+2017-05-21 16:24:47 INFO  LoginPage:58 - User details entered and click Login button
+2017-05-21 16:24:47 INFO  FlightFinderPage:53 - Flight Finder Page loaded successfully
+2017-05-21 16:24:49 INFO  FlightFinderPage:93 - Flight details entered
+2017-05-21 16:24:53 INFO  FlightFinderPage:67 - Flight details entered and navigated to Flight Selection Page
+2017-05-21 16:24:53 INFO  FlightSelectionPage:44 - Flight Selection Page loaded successfully
+2017-05-21 16:24:56 INFO  FlightSelectionPage:75 - Click Continue button and navigated to Flight Booking Page
+2017-05-21 16:25:43 INFO  FlightBookingPage:68 - Flight Booking Page loaded successfully
+2017-05-21 16:25:47 INFO  FlightBookingPage:88 - Passenger Credit Card details entered
+2017-05-21 16:25:51 INFO  FlightBookingPage:144 - Passenger details entered
+2017-05-21 16:25:57 INFO  FlightBookingPage:109 - Passenger details entered and navigated to Flight Confirmation Page
+2017-05-21 16:25:57 INFO  FlightConfirmationPage:45 - Flight Booking Confirmation Page loaded successfully
+2017-05-21 16:26:44 INFO  FlightConfirmationPage:58 - User click Logout Button successfully
+2017-05-21 16:26:44 INFO  LoginPage:42 - Login Page Displayed
+2017-05-21 16:26:50 INFO  HomePage:41 - Home Page loaded successfully
+2017-05-21 16:26:50 INFO  HomePage:67 - Click SingOn button and navigated to Login Page
+2017-05-21 16:26:51 INFO  LoginPage:42 - Login Page Displayed
+2017-05-21 16:26:53 INFO  LoginPage:72 - User details entered
+2017-05-21 16:26:58 INFO  LoginPage:58 - User details entered and click Login button
+2017-05-21 16:26:58 INFO  FlightFinderPage:53 - Flight Finder Page loaded successfully
+2017-05-21 16:26:59 INFO  FlightFinderPage:93 - Flight details entered
+2017-05-21 16:27:04 INFO  FlightFinderPage:67 - Flight details entered and navigated to Flight Selection Page
+2017-05-21 16:27:04 INFO  FlightSelectionPage:44 - Flight Selection Page loaded successfully
+2017-05-21 16:27:06 INFO  FlightSelectionPage:75 - Click Continue button and navigated to Flight Booking Page
+2017-05-21 16:27:08 INFO  FlightBookingPage:68 - Flight Booking Page loaded successfully
+2017-05-21 16:27:11 INFO  FlightBookingPage:88 - Passenger Credit Card details entered
+2017-05-21 16:27:16 INFO  FlightBookingPage:144 - Passenger details entered
+2017-05-21 16:27:22 INFO  FlightBookingPage:109 - Passenger details entered and navigated to Flight Confirmation Page
+2017-05-21 16:27:22 INFO  FlightConfirmationPage:45 - Flight Booking Confirmation Page loaded successfully
+2017-05-21 16:27:26 INFO  FlightConfirmationPage:58 - User click Logout Button successfully
+2017-05-21 16:27:26 INFO  LoginPage:42 - Login Page Displayed
+2017-05-21 18:31:30 INFO  HeaderPanel:30 - Panel loaded and Elements are Initialized
+2017-05-21 18:31:30 INFO  HomePage:31 - HomePage loaded and Elements are Initialized
+2017-05-21 18:31:31 INFO  HomePage:42 - Home Page loaded successfully
+2017-05-21 18:31:31 INFO  HomePage:53 - Home Page Header Panel is displayed
+2017-05-21 18:31:32 INFO  HomePage:64 - Register Link Clicked and navigated to Register Page
+2017-05-21 18:31:32 INFO  RegistrationPage:55 - Registration Page loaded and Elements are Initialized
+2017-05-21 18:31:32 INFO  RegistrationPage:66 - Register Page loaded successfully
+2017-05-21 18:31:46 INFO  RegistrationPage:95 - User enter Registration Page and navigate to Register Success Page
+2017-05-21 18:31:46 INFO  RegistrationSuccessPage:29 - Registration Page loaded and Elements are Initialized
+2017-05-21 18:31:46 INFO  RegistrationSuccessPage:40 - Registration Success Page loaded successfully
+2017-05-21 18:31:46 INFO  HeaderPanel:30 - Panel loaded and Elements are Initialized
+2017-05-21 18:31:50 INFO  HeaderPanel:75 - User click Sign Off Button successfully
+2017-05-21 18:31:50 INFO  LoginPage:33 - LoginPage loaded and Elements are Initialized
+2017-05-21 18:31:51 INFO  LoginPage:44 - Login Page Displayed
+2017-05-21 18:32:43 INFO  HeaderPanel:30 - Panel loaded and Elements are Initialized
+2017-05-21 18:32:43 INFO  HomePage:31 - HomePage loaded and Elements are Initialized
+2017-05-21 18:32:43 INFO  HomePage:42 - Home Page loaded successfully
+2017-05-21 18:32:44 INFO  HomePage:75 - Click SingOn button and navigated to Login Page
+2017-05-21 18:32:44 INFO  LoginPage:33 - LoginPage loaded and Elements are Initialized
+2017-05-21 18:32:44 INFO  LoginPage:44 - Login Page Displayed
+2017-05-21 18:32:47 INFO  LoginPage:74 - User details entered
+2017-05-21 18:32:52 INFO  LoginPage:60 - User details entered and click Login button
+2017-05-21 18:32:52 INFO  FlightFinderPage:43 - Flight Finder Page loaded and Elements are Initialized
+2017-05-21 18:32:52 INFO  FlightFinderPage:54 - Flight Finder Page loaded successfully
+2017-05-21 18:32:53 INFO  FlightFinderPage:94 - Flight details entered
+2017-05-21 18:32:58 INFO  FlightFinderPage:68 - Flight details entered and navigated to Flight Selection Page
+2017-05-21 18:32:58 INFO  FlightSelectionPage:35 - Flight Selection Page loaded and Elements are Initialized
+2017-05-21 18:32:58 INFO  FlightSelectionPage:45 - Flight Selection Page loaded successfully
+2017-05-21 18:33:00 INFO  FlightSelectionPage:76 - Click Continue button and navigated to Flight Booking Page
+2017-05-21 18:33:01 INFO  FlightBookingPage:58 - Flight Booking page loaded and Elements are Initialized
+2017-05-21 18:33:02 INFO  FlightBookingPage:70 - Flight Booking Page loaded successfully
+2017-05-21 18:33:05 INFO  FlightBookingPage:90 - Passenger Credit Card details are entered
+2017-05-21 18:33:06 INFO  FlightBookingPage:58 - Flight Booking page loaded and Elements are Initialized
+2017-05-21 18:33:10 INFO  FlightBookingPage:146 - Passenger details entered
+2017-05-21 18:33:15 INFO  FlightBookingPage:111 - Passenger details entered and navigated to Flight Confirmation Page
+2017-05-21 18:33:16 INFO  FlightConfirmationPage:36 - Flight Confirmation Page loaded and Elements are Initialized
+2017-05-21 18:33:16 INFO  FlightConfirmationPage:47 - Flight Booking Confirmation Page loaded successfully
+2017-05-21 18:33:19 INFO  FlightConfirmationPage:60 - User click Logout Button successfully
+2017-05-21 18:33:20 INFO  LoginPage:33 - LoginPage loaded and Elements are Initialized
+2017-05-21 18:33:20 INFO  LoginPage:44 - Login Page Displayed
+2017-05-21 18:37:48 INFO  HeaderPanel:30 - Panel loaded and Elements are Initialized
+2017-05-21 18:37:48 INFO  HomePage:31 - HomePage loaded and Elements are Initialized
+2017-05-21 18:37:48 INFO  HomePage:42 - Home Page loaded successfully
+2017-05-21 18:37:48 INFO  HomePage:53 - Home Page Header Panel is displayed
+2017-05-21 18:37:49 INFO  HomePage:64 - Register Link Clicked and navigated to Register Page
+2017-05-21 18:37:50 INFO  RegistrationPage:55 - Registration Page loaded and Elements are Initialized
+2017-05-21 18:37:50 INFO  RegistrationPage:66 - Register Page loaded successfully
+2017-05-21 18:38:04 INFO  RegistrationPage:95 - User enter Registration Page and navigate to Register Success Page
+2017-05-21 18:38:04 INFO  RegistrationSuccessPage:29 - Registration Page loaded and Elements are Initialized
+2017-05-21 18:38:04 INFO  RegistrationSuccessPage:40 - Registration Success Page loaded successfully
+2017-05-21 18:38:04 INFO  HeaderPanel:30 - Panel loaded and Elements are Initialized
+2017-05-21 18:38:08 INFO  HeaderPanel:75 - User click Sign Off Button successfully
+2017-05-21 18:38:08 INFO  LoginPage:31 - LoginPage loaded and Elements are Initialized
+2017-05-21 18:38:08 INFO  LoginPage:42 - Login Page Displayed
+2017-05-21 18:38:13 INFO  HeaderPanel:30 - Panel loaded and Elements are Initialized
+2017-05-21 18:38:14 INFO  HomePage:31 - HomePage loaded and Elements are Initialized
+2017-05-21 18:38:14 INFO  HomePage:42 - Home Page loaded successfully
+2017-05-21 18:38:14 INFO  HomePage:75 - Click SingOn button and navigated to Login Page
+2017-05-21 18:38:14 INFO  LoginPage:31 - LoginPage loaded and Elements are Initialized
+2017-05-21 18:38:14 INFO  LoginPage:42 - Login Page Displayed
+2017-05-21 18:38:17 INFO  LoginPage:72 - User details entered
+2017-05-21 18:38:22 INFO  LoginPage:58 - User details entered and click Login button
+2017-05-21 18:38:22 INFO  FlightFinderPage:43 - Flight Finder Page loaded and Elements are Initialized
+2017-05-21 18:38:22 INFO  FlightFinderPage:54 - Flight Finder Page loaded successfully
+2017-05-21 18:38:23 INFO  FlightFinderPage:94 - Flight details entered
+2017-05-21 18:38:28 INFO  FlightFinderPage:68 - Flight details entered and navigated to Flight Selection Page
+2017-05-21 18:38:28 INFO  FlightSelectionPage:35 - Flight Selection Page loaded and Elements are Initialized
+2017-05-21 18:38:28 INFO  FlightSelectionPage:45 - Flight Selection Page loaded successfully
+2017-05-21 18:38:30 INFO  FlightSelectionPage:76 - Click Continue button and navigated to Flight Booking Page
+2017-05-21 18:38:31 INFO  FlightBookingPage:58 - Flight Booking page loaded and Elements are Initialized
+2017-05-21 18:38:32 INFO  FlightBookingPage:70 - Flight Booking Page loaded successfully
+2017-05-21 18:38:35 INFO  FlightBookingPage:90 - Passenger Credit Card details are entered
+2017-05-21 18:38:36 INFO  FlightBookingPage:58 - Flight Booking page loaded and Elements are Initialized
+2017-05-21 18:38:40 INFO  FlightBookingPage:146 - Passenger details entered
+2017-05-21 18:38:45 INFO  FlightBookingPage:111 - Passenger details entered and navigated to Flight Confirmation Page
+2017-05-21 18:38:46 INFO  FlightConfirmationPage:36 - Flight Confirmation Page loaded and Elements are Initialized
+2017-05-21 18:38:46 INFO  FlightConfirmationPage:47 - Flight Booking Confirmation Page loaded successfully
+2017-05-21 18:38:49 INFO  FlightConfirmationPage:60 - User click Logout Button successfully
+2017-05-21 18:38:50 INFO  LoginPage:31 - LoginPage loaded and Elements are Initialized
+2017-05-21 18:38:50 INFO  LoginPage:42 - Login Page Displayed
+2017-05-21 20:23:45 INFO  HeaderPanel:30 - Panel loaded and Elements are Initialized
+2017-05-21 20:23:45 INFO  HomePage:31 - HomePage loaded and Elements are Initialized
+2017-05-21 20:23:45 INFO  HomePage:42 - Home Page loaded successfully
+2017-05-21 20:23:45 INFO  HomePage:53 - Home Page Header Panel is displayed
+2017-05-21 20:23:46 INFO  HomePage:64 - Register Link Clicked and navigated to Register Page
+2017-05-21 20:23:46 INFO  RegistrationPage:55 - Registration Page loaded and Elements are Initialized
+2017-05-21 20:23:46 INFO  RegistrationPage:66 - Register Page loaded successfully
+2017-05-21 20:24:00 INFO  RegistrationPage:95 - User enter Registration Page and navigate to Register Success Page
+2017-05-21 20:24:00 INFO  RegistrationSuccessPage:29 - Registration Page loaded and Elements are Initialized
+2017-05-21 20:24:00 INFO  RegistrationSuccessPage:40 - Registration Success Page loaded successfully
+2017-05-21 20:24:00 INFO  HeaderPanel:30 - Panel loaded and Elements are Initialized
+2017-05-21 20:24:45 INFO  HeaderPanel:75 - User click Sign Off Button successfully
+2017-05-21 20:24:45 INFO  LoginPage:31 - LoginPage loaded and Elements are Initialized
+2017-05-21 20:24:45 INFO  LoginPage:42 - Login Page Displayed
+2017-05-21 20:25:11 INFO  HeaderPanel:30 - Panel loaded and Elements are Initialized
+2017-05-21 20:25:11 INFO  HomePage:31 - HomePage loaded and Elements are Initialized
+2017-05-21 20:25:11 INFO  HomePage:42 - Home Page loaded successfully
+2017-05-21 20:25:12 INFO  HomePage:75 - Click SingOn button and navigated to Login Page
+2017-05-21 20:25:12 INFO  LoginPage:31 - LoginPage loaded and Elements are Initialized
+2017-05-21 20:25:12 INFO  LoginPage:42 - Login Page Displayed
+2017-05-21 20:25:14 INFO  LoginPage:72 - User details entered
+2017-05-21 20:25:19 INFO  LoginPage:58 - User details entered and click Login button
+2017-05-21 20:25:19 INFO  FlightFinderPage:49 - Flight Finder Page loaded and Elements are Initialized
+2017-05-21 20:25:19 INFO  FlightFinderPage:60 - Flight Finder Page loaded successfully
+2017-05-21 20:25:21 INFO  FlightFinderPage:133 - Flight Type Selected
+2017-05-21 20:25:22 INFO  FlightFinderPage:97 - Flight details entered
+2017-05-21 20:25:23 INFO  FlightFinderPage:116 - Flight Service Class Type Selected
+2017-05-21 20:25:28 INFO  FlightFinderPage:76 - Flight details entered and navigated to Flight Selection Page
+2017-05-21 20:25:28 INFO  FlightSelectionPage:35 - Flight Selection Page loaded and Elements are Initialized
+2017-05-21 20:25:28 INFO  FlightSelectionPage:45 - Flight Selection Page loaded successfully
+2017-05-21 20:25:28 INFO  FlightSelectionPage:57 - Unified Airlines 363 label is correctly displayed
+2017-05-21 20:25:28 INFO  FlightSelectionPage:71 - Unified Airlines 363 Price is correctly displayed
+2017-05-21 20:25:30 INFO  FlightSelectionPage:85 - Click Continue button and navigated to Flight Booking Page
+2017-05-21 20:25:30 INFO  FlightBookingPage:58 - Flight Booking page loaded and Elements are Initialized
+2017-05-21 20:25:31 INFO  FlightBookingPage:70 - Flight Booking Page loaded successfully
+2017-05-21 20:25:35 INFO  FlightBookingPage:90 - Passenger Credit Card details are entered
+2017-05-21 20:25:35 INFO  FlightBookingPage:58 - Flight Booking page loaded and Elements are Initialized
+2017-05-21 20:25:39 INFO  FlightBookingPage:146 - Passenger details entered
+2017-05-21 20:25:45 INFO  FlightBookingPage:111 - Passenger details entered and navigated to Flight Confirmation Page
+2017-05-21 20:25:45 INFO  FlightConfirmationPage:36 - Flight Confirmation Page loaded and Elements are Initialized
+2017-05-21 20:25:45 INFO  FlightConfirmationPage:47 - Flight Booking Confirmation Page loaded successfully
+2017-05-21 20:25:49 INFO  FlightConfirmationPage:60 - User click Logout Button successfully
+2017-05-21 20:25:49 INFO  LoginPage:31 - LoginPage loaded and Elements are Initialized
+2017-05-21 20:25:49 INFO  LoginPage:42 - Login Page Displayed
+2017-05-21 20:32:34 INFO  HeaderPanel:30 - Panel loaded and Elements are Initialized
+2017-05-21 20:32:34 INFO  HomePage:31 - HomePage loaded and Elements are Initialized
+2017-05-21 20:32:34 INFO  HomePage:42 - Home Page loaded successfully
+2017-05-21 20:32:34 INFO  HomePage:53 - Home Page Header Panel is displayed
+2017-05-21 20:32:35 INFO  HomePage:64 - Register Link Clicked and navigated to Register Page
+2017-05-21 20:32:36 INFO  RegistrationPage:55 - Registration Page loaded and Elements are Initialized
+2017-05-21 20:32:36 INFO  RegistrationPage:66 - Register Page loaded successfully
+2017-05-21 20:32:50 INFO  RegistrationPage:95 - User enter Registration Page and navigate to Register Success Page
+2017-05-21 20:32:50 INFO  RegistrationSuccessPage:29 - Registration Page loaded and Elements are Initialized
+2017-05-21 20:32:50 INFO  RegistrationSuccessPage:40 - Registration Success Page loaded successfully
+2017-05-21 20:32:50 INFO  HeaderPanel:30 - Panel loaded and Elements are Initialized
+2017-05-21 20:32:54 INFO  HeaderPanel:75 - User click Sign Off Button successfully
+2017-05-21 20:32:54 INFO  LoginPage:31 - LoginPage loaded and Elements are Initialized
+2017-05-21 20:32:54 INFO  LoginPage:42 - Login Page Displayed
+2017-05-21 20:33:00 INFO  HeaderPanel:30 - Panel loaded and Elements are Initialized
+2017-05-21 20:33:00 INFO  HomePage:31 - HomePage loaded and Elements are Initialized
+2017-05-21 20:33:00 INFO  HomePage:42 - Home Page loaded successfully
+2017-05-21 20:33:00 INFO  HomePage:53 - Home Page Header Panel is displayed
+2017-05-21 20:33:01 INFO  HomePage:64 - Register Link Clicked and navigated to Register Page
+2017-05-21 20:33:01 INFO  RegistrationPage:55 - Registration Page loaded and Elements are Initialized
+2017-05-21 20:33:01 INFO  RegistrationPage:66 - Register Page loaded successfully
+2017-05-21 20:33:15 INFO  RegistrationPage:95 - User enter Registration Page and navigate to Register Success Page
+2017-05-21 20:33:15 INFO  RegistrationSuccessPage:29 - Registration Page loaded and Elements are Initialized
+2017-05-21 20:33:15 INFO  RegistrationSuccessPage:40 - Registration Success Page loaded successfully
+2017-05-21 20:33:15 INFO  HeaderPanel:30 - Panel loaded and Elements are Initialized
+2017-05-21 20:33:19 INFO  HeaderPanel:75 - User click Sign Off Button successfully
+2017-05-21 20:33:19 INFO  LoginPage:31 - LoginPage loaded and Elements are Initialized
+2017-05-21 20:33:20 INFO  LoginPage:42 - Login Page Displayed
+2017-05-21 20:33:25 INFO  HeaderPanel:30 - Panel loaded and Elements are Initialized
+2017-05-21 20:33:25 INFO  HomePage:31 - HomePage loaded and Elements are Initialized
+2017-05-21 20:33:25 INFO  HomePage:42 - Home Page loaded successfully
+2017-05-21 20:33:26 INFO  HomePage:75 - Click SingOn button and navigated to Login Page
+2017-05-21 20:33:26 INFO  LoginPage:31 - LoginPage loaded and Elements are Initialized
+2017-05-21 20:33:26 INFO  LoginPage:42 - Login Page Displayed
+2017-05-21 20:33:28 INFO  LoginPage:72 - User details entered
+2017-05-21 20:33:33 INFO  LoginPage:58 - User details entered and click Login button
+2017-05-21 20:33:34 INFO  FlightFinderPage:49 - Flight Finder Page loaded and Elements are Initialized
+2017-05-21 20:33:34 INFO  FlightFinderPage:60 - Flight Finder Page loaded successfully
+2017-05-21 20:33:35 INFO  FlightFinderPage:133 - Flight Type Selected
+2017-05-21 20:33:36 INFO  FlightFinderPage:97 - Flight details entered
+2017-05-21 20:33:37 INFO  FlightFinderPage:116 - Flight Service Class Type Selected
+2017-05-21 20:33:42 INFO  FlightFinderPage:76 - Flight details entered and navigated to Flight Selection Page
+2017-05-21 20:33:42 INFO  FlightSelectionPage:35 - Flight Selection Page loaded and Elements are Initialized
+2017-05-21 20:33:42 INFO  FlightSelectionPage:45 - Flight Selection Page loaded successfully
+2017-05-21 20:33:42 INFO  FlightSelectionPage:57 - Unified Airlines 363 label is correctly displayed
+2017-05-21 20:33:42 INFO  FlightSelectionPage:71 - Unified Airlines 363 Price is correctly displayed
+2017-05-21 20:33:44 INFO  FlightSelectionPage:85 - Click Continue button and navigated to Flight Booking Page
+2017-05-21 20:33:45 INFO  FlightBookingPage:58 - Flight Booking page loaded and Elements are Initialized
+2017-05-21 20:33:46 INFO  FlightBookingPage:70 - Flight Booking Page loaded successfully
+2017-05-21 20:33:49 INFO  FlightBookingPage:90 - Passenger Credit Card details are entered
+2017-05-21 20:33:49 INFO  FlightBookingPage:58 - Flight Booking page loaded and Elements are Initialized
+2017-05-21 20:33:54 INFO  FlightBookingPage:146 - Passenger details entered
+2017-05-21 20:33:59 INFO  FlightBookingPage:111 - Passenger details entered and navigated to Flight Confirmation Page
+2017-05-21 20:33:59 INFO  FlightConfirmationPage:36 - Flight Confirmation Page loaded and Elements are Initialized
+2017-05-21 20:33:59 INFO  FlightConfirmationPage:47 - Flight Booking Confirmation Page loaded successfully
+2017-05-21 20:34:03 INFO  FlightConfirmationPage:60 - User click Logout Button successfully
+2017-05-21 20:34:03 INFO  LoginPage:31 - LoginPage loaded and Elements are Initialized
+2017-05-21 20:34:03 INFO  LoginPage:42 - Login Page Displayed
+2017-05-21 20:34:53 INFO  HeaderPanel:30 - Panel loaded and Elements are Initialized
+2017-05-21 20:34:53 INFO  HomePage:31 - HomePage loaded and Elements are Initialized
+2017-05-21 20:34:53 INFO  HomePage:42 - Home Page loaded successfully
+2017-05-21 20:34:54 INFO  HomePage:75 - Click SingOn button and navigated to Login Page
+2017-05-21 20:34:54 INFO  LoginPage:31 - LoginPage loaded and Elements are Initialized
+2017-05-21 20:34:54 INFO  LoginPage:42 - Login Page Displayed
+2017-05-21 20:34:57 INFO  LoginPage:72 - User details entered
+2017-05-21 20:35:02 INFO  LoginPage:58 - User details entered and click Login button
+2017-05-21 20:35:02 INFO  FlightFinderPage:49 - Flight Finder Page loaded and Elements are Initialized
+2017-05-21 20:35:02 INFO  FlightFinderPage:60 - Flight Finder Page loaded successfully
+2017-05-21 20:35:03 INFO  FlightFinderPage:133 - Flight Type Selected
+2017-05-21 20:35:05 INFO  FlightFinderPage:97 - Flight details entered
+2017-05-21 20:35:06 INFO  FlightFinderPage:116 - Flight Service Class Type Selected
+2017-05-21 20:35:10 INFO  FlightFinderPage:76 - Flight details entered and navigated to Flight Selection Page
+2017-05-21 20:35:11 INFO  FlightSelectionPage:35 - Flight Selection Page loaded and Elements are Initialized
+2017-05-21 20:35:11 INFO  FlightSelectionPage:45 - Flight Selection Page loaded successfully
+2017-05-21 20:35:11 INFO  FlightSelectionPage:57 - Unified Airlines 363 label is correctly displayed
+2017-05-21 20:35:11 INFO  FlightSelectionPage:71 - Unified Airlines 363 Price is correctly displayed
+2017-05-21 20:35:13 INFO  FlightSelectionPage:85 - Click Continue button and navigated to Flight Booking Page
+2017-05-21 20:35:13 INFO  FlightBookingPage:58 - Flight Booking page loaded and Elements are Initialized
+2017-05-21 20:35:14 INFO  FlightBookingPage:70 - Flight Booking Page loaded successfully
+2017-05-21 20:35:18 INFO  FlightBookingPage:90 - Passenger Credit Card details are entered
+2017-05-21 20:35:18 INFO  FlightBookingPage:58 - Flight Booking page loaded and Elements are Initialized
+2017-05-21 20:35:22 INFO  FlightBookingPage:146 - Passenger details entered
+2017-05-21 20:35:28 INFO  FlightBookingPage:111 - Passenger details entered and navigated to Flight Confirmation Page
+2017-05-21 20:35:28 INFO  FlightConfirmationPage:36 - Flight Confirmation Page loaded and Elements are Initialized
+2017-05-21 20:35:28 INFO  FlightConfirmationPage:47 - Flight Booking Confirmation Page loaded successfully
+2017-05-21 20:35:32 INFO  FlightConfirmationPage:60 - User click Logout Button successfully
+2017-05-21 20:35:32 INFO  LoginPage:31 - LoginPage loaded and Elements are Initialized
+2017-05-21 20:35:32 INFO  LoginPage:42 - Login Page Displayed
+2017-05-21 20:47:25 INFO  HeaderPanel:30 - Panel loaded and Elements are Initialized
+2017-05-21 20:47:25 INFO  HomePage:30 - HomePage loaded and Elements are Initialized
+2017-05-21 20:47:25 INFO  HomePage:42 - Home Page loaded successfully
+2017-05-21 20:47:25 INFO  HomePage:53 - Home Page Header Panel is displayed
+2017-05-21 20:47:26 INFO  HomePage:64 - Register Link Clicked and navigated to Register Page
+2017-05-21 20:47:27 INFO  RegistrationPage:55 - Registration Page loaded and Elements are Initialized
+2017-05-21 20:47:27 INFO  RegistrationPage:67 - Register Page loaded successfully
+2017-05-21 20:47:41 INFO  RegistrationPage:96 - User enter Registration Page and navigate to Register Success Page
+2017-05-21 20:47:41 INFO  RegistrationSuccessPage:29 - Registration Page loaded and Elements are Initialized
+2017-05-21 20:47:41 INFO  RegistrationSuccessPage:41 - Registration Success Page loaded successfully
+2017-05-21 20:58:22 INFO  HeaderPanel:30 - Panel loaded and Elements are Initialized
+2017-05-21 20:58:22 INFO  HomePage:30 - HomePage loaded and Elements are Initialized
+2017-05-21 20:58:22 INFO  HomePage:42 - Home Page loaded successfully
+2017-05-21 20:58:22 INFO  HomePage:53 - Home Page Header Panel is displayed
+2017-05-21 20:58:23 INFO  HomePage:64 - Register Link Clicked and navigated to Register Page
+2017-05-21 20:58:23 INFO  RegistrationPage:55 - Registration Page loaded and Elements are Initialized
+2017-05-21 20:58:23 INFO  RegistrationPage:67 - Register Page loaded successfully
+2017-05-21 20:58:38 INFO  RegistrationPage:96 - User enter Registration Page and navigate to Register Success Page
+2017-05-21 20:58:38 INFO  RegistrationSuccessPage:29 - Registration Page loaded and Elements are Initialized
+2017-05-21 20:58:38 INFO  RegistrationSuccessPage:41 - Registration Success Page loaded successfully
+2017-05-21 20:58:38 INFO  HeaderPanel:30 - Panel loaded and Elements are Initialized
+2017-05-21 20:58:42 INFO  HeaderPanel:76 - User click Sign Off Button successfully
+2017-05-21 20:58:42 INFO  LoginPage:31 - LoginPage loaded and Elements are Initialized
+2017-05-21 20:58:42 INFO  LoginPage:43 - Login Page Displayed
+2017-05-21 21:00:52 INFO  HeaderPanel:30 - Panel loaded and Elements are Initialized
+2017-05-21 21:00:52 INFO  HomePage:30 - HomePage loaded and Elements are Initialized
+2017-05-21 21:00:52 INFO  HomePage:42 - Home Page loaded successfully
+2017-05-21 21:00:52 INFO  HomePage:53 - Home Page Header Panel is displayed
+2017-05-21 21:00:53 INFO  HomePage:64 - Register Link Clicked and navigated to Register Page
+2017-05-21 21:00:53 INFO  RegistrationPage:55 - Registration Page loaded and Elements are Initialized
+2017-05-21 21:00:53 INFO  RegistrationPage:67 - Register Page loaded successfully
+2017-05-21 21:01:08 INFO  RegistrationPage:96 - User enter Registration Page and navigate to Register Success Page
+2017-05-21 21:01:08 INFO  RegistrationSuccessPage:29 - Registration Page loaded and Elements are Initialized
+2017-05-21 21:01:08 INFO  RegistrationSuccessPage:41 - Registration Success Page loaded successfully
+2017-05-21 21:01:08 INFO  HeaderPanel:30 - Panel loaded and Elements are Initialized
+2017-05-21 21:01:12 INFO  HeaderPanel:76 - User click Sign Off Button successfully
+2017-05-21 21:01:12 INFO  LoginPage:31 - LoginPage loaded and Elements are Initialized
+2017-05-21 21:01:12 INFO  LoginPage:43 - Login Page Displayed
+2017-05-21 22:20:46 INFO  HeaderPanel:30 - Panel loaded and Elements are Initialized
+2017-05-21 22:20:46 INFO  HomePage:30 - HomePage loaded and Elements are Initialized
+2017-05-21 22:20:46 INFO  HomePage:42 - Home Page loaded successfully
+2017-05-21 22:20:46 INFO  HomePage:53 - Home Page Header Panel is displayed
+2017-05-21 22:20:47 INFO  HomePage:64 - Register Link Clicked and navigated to Register Page
+2017-05-21 22:20:48 INFO  RegistrationPage:55 - Registration Page loaded and Elements are Initialized
+2017-05-21 22:20:48 INFO  RegistrationPage:67 - Register Page loaded successfully
+2017-05-21 22:21:02 INFO  RegistrationPage:96 - User enter Registration Page and navigate to Register Success Page
+2017-05-21 22:21:02 INFO  RegistrationSuccessPage:29 - Registration Page loaded and Elements are Initialized
+2017-05-21 22:21:02 INFO  RegistrationSuccessPage:41 - Registration Success Page loaded successfully
+2017-05-21 22:21:02 INFO  HeaderPanel:30 - Panel loaded and Elements are Initialized
+2017-05-21 22:21:06 INFO  HeaderPanel:76 - User click Sign Off Button successfully
+2017-05-21 22:21:06 INFO  LoginPage:31 - LoginPage loaded and Elements are Initialized
+2017-05-21 22:21:06 INFO  LoginPage:43 - Login Page Displayed
+2017-05-21 22:21:13 INFO  HeaderPanel:30 - Panel loaded and Elements are Initialized
+2017-05-21 22:21:13 INFO  HomePage:30 - HomePage loaded and Elements are Initialized
+2017-05-21 22:21:13 INFO  HomePage:42 - Home Page loaded successfully
+2017-05-21 22:21:14 INFO  HomePage:75 - Click SingOn button and navigated to Login Page
+2017-05-21 22:21:14 INFO  LoginPage:31 - LoginPage loaded and Elements are Initialized
+2017-05-21 22:21:14 INFO  LoginPage:43 - Login Page Displayed
+2017-05-21 22:21:16 INFO  LoginPage:73 - User details entered
+2017-05-21 22:21:21 INFO  LoginPage:59 - User details entered and click Login button
+2017-05-21 22:21:21 INFO  FlightFinderPage:49 - Flight Finder Page loaded and Elements are Initialized
+2017-05-21 22:21:21 INFO  FlightFinderPage:61 - Flight Finder Page loaded successfully
+2017-05-21 22:21:22 INFO  FlightFinderPage:141 - Flight Type Selected
+2017-05-21 22:21:24 INFO  FlightFinderPage:105 - Flight details entered
+2017-05-21 22:21:25 INFO  FlightFinderPage:124 - Flight Service Class Type Selected
+2017-05-21 22:21:29 INFO  FlightFinderPage:77 - Flight details entered and navigated to Flight Selection Page
+2017-05-21 22:21:30 INFO  FlightSelectionPage:35 - Flight Selection Page loaded and Elements are Initialized
+2017-05-21 22:21:30 INFO  FlightSelectionPage:46 - Flight Selection Page loaded successfully
+2017-05-21 22:21:30 INFO  FlightSelectionPage:59 - Unified Airlines 363 label is correctly displayed
+2017-05-21 22:21:30 INFO  FlightSelectionPage:74 - Unified Airlines 363 Price is correctly displayed
+2017-05-21 22:21:32 INFO  FlightSelectionPage:88 - Click Continue button and navigated to Flight Booking Page
+2017-05-21 22:21:32 INFO  FlightBookingPage:58 - Flight Booking page loaded and Elements are Initialized
+2017-05-21 22:21:33 INFO  FlightBookingPage:71 - Flight Booking Page loaded successfully
+2017-05-21 22:21:37 INFO  FlightBookingPage:91 - Passenger Credit Card details are entered
+2017-05-21 22:21:37 INFO  FlightBookingPage:58 - Flight Booking page loaded and Elements are Initialized
+2017-05-21 22:21:41 INFO  FlightBookingPage:148 - Passenger details entered
+2017-05-21 22:22:26 INFO  FlightBookingPage:112 - Passenger details entered and navigated to Flight Confirmation Page
+2017-05-21 22:22:26 INFO  FlightConfirmationPage:36 - Flight Confirmation Page loaded and Elements are Initialized
+2017-05-21 22:22:26 INFO  FlightConfirmationPage:48 - Flight Booking Confirmation Page loaded successfully
+2017-05-21 22:22:30 INFO  FlightConfirmationPage:61 - User click Logout Button successfully
+2017-05-21 22:22:30 INFO  LoginPage:31 - LoginPage loaded and Elements are Initialized
+2017-05-21 22:22:30 INFO  LoginPage:43 - Login Page Displayed
+2017-05-21 22:23:35 INFO  HeaderPanel:30 - Panel loaded and Elements are Initialized
+2017-05-21 22:23:35 INFO  HomePage:30 - HomePage loaded and Elements are Initialized
+2017-05-21 22:23:35 INFO  HomePage:42 - Home Page loaded successfully
+2017-05-21 22:23:35 INFO  HomePage:75 - Click SingOn button and navigated to Login Page
+2017-05-21 22:23:35 INFO  LoginPage:31 - LoginPage loaded and Elements are Initialized
+2017-05-21 22:23:35 INFO  LoginPage:43 - Login Page Displayed
+2017-05-21 22:23:38 INFO  LoginPage:73 - User details entered
+2017-05-21 22:23:43 INFO  LoginPage:59 - User details entered and click Login button
+2017-05-21 22:23:43 INFO  FlightFinderPage:49 - Flight Finder Page loaded and Elements are Initialized
+2017-05-21 22:23:43 INFO  FlightFinderPage:61 - Flight Finder Page loaded successfully
+2017-05-21 22:23:48 INFO  FlightFinderPage:141 - Flight Type Selected
+2017-05-21 22:24:14 INFO  FlightFinderPage:105 - Flight details entered
+2017-05-21 22:24:15 INFO  FlightFinderPage:124 - Flight Service Class Type Selected
+2017-05-21 22:24:20 INFO  FlightFinderPage:77 - Flight details entered and navigated to Flight Selection Page
+2017-05-21 22:24:20 INFO  FlightSelectionPage:35 - Flight Selection Page loaded and Elements are Initialized
+2017-05-21 22:24:20 INFO  FlightSelectionPage:46 - Flight Selection Page loaded successfully
+2017-05-21 22:24:20 INFO  FlightSelectionPage:59 - Unified Airlines 363 label is correctly displayed
+2017-05-21 22:24:20 INFO  FlightSelectionPage:74 - Unified Airlines 363 Price is correctly displayed
+2017-05-21 22:24:23 INFO  FlightSelectionPage:88 - Click Continue button and navigated to Flight Booking Page
+2017-05-21 22:24:23 INFO  FlightBookingPage:58 - Flight Booking page loaded and Elements are Initialized
+2017-05-21 22:24:24 INFO  FlightBookingPage:71 - Flight Booking Page loaded successfully
+2017-05-21 22:24:28 INFO  FlightBookingPage:91 - Passenger Credit Card details are entered
+2017-05-21 22:24:28 INFO  FlightBookingPage:58 - Flight Booking page loaded and Elements are Initialized
+2017-05-21 22:24:32 INFO  FlightBookingPage:148 - Passenger details entered
+2017-05-21 22:24:38 INFO  FlightBookingPage:112 - Passenger details entered and navigated to Flight Confirmation Page
+2017-05-21 22:24:38 INFO  FlightConfirmationPage:36 - Flight Confirmation Page loaded and Elements are Initialized
+2017-05-21 22:24:38 INFO  FlightConfirmationPage:48 - Flight Booking Confirmation Page loaded successfully
+2017-05-21 22:26:21 INFO  HeaderPanel:30 - Panel loaded and Elements are Initialized
+2017-05-21 22:26:21 INFO  HomePage:30 - HomePage loaded and Elements are Initialized
+2017-05-21 22:26:21 INFO  HomePage:42 - Home Page loaded successfully
+2017-05-21 22:26:21 INFO  HomePage:53 - Home Page Header Panel is displayed
+2017-05-21 22:26:22 INFO  HomePage:64 - Register Link Clicked and navigated to Register Page
+2017-05-21 22:26:22 INFO  RegistrationPage:55 - Registration Page loaded and Elements are Initialized
+2017-05-21 22:26:22 INFO  RegistrationPage:67 - Register Page loaded successfully
+2017-05-21 22:26:36 INFO  RegistrationPage:96 - User enter Registration Page and navigate to Register Success Page
+2017-05-21 22:26:36 INFO  RegistrationSuccessPage:29 - Registration Page loaded and Elements are Initialized
+2017-05-21 22:26:36 INFO  RegistrationSuccessPage:41 - Registration Success Page loaded successfully
+2017-05-21 22:26:37 INFO  HeaderPanel:30 - Panel loaded and Elements are Initialized
+2017-05-21 22:26:40 INFO  HeaderPanel:76 - User click Sign Off Button successfully
+2017-05-21 22:26:41 INFO  LoginPage:31 - LoginPage loaded and Elements are Initialized
+2017-05-21 22:26:41 INFO  LoginPage:43 - Login Page Displayed
+2017-05-21 22:26:47 INFO  HeaderPanel:30 - Panel loaded and Elements are Initialized
+2017-05-21 22:26:47 INFO  HomePage:30 - HomePage loaded and Elements are Initialized
+2017-05-21 22:26:47 INFO  HomePage:42 - Home Page loaded successfully
+2017-05-21 22:26:48 INFO  HomePage:75 - Click SingOn button and navigated to Login Page
+2017-05-21 22:26:48 INFO  LoginPage:31 - LoginPage loaded and Elements are Initialized
+2017-05-21 22:26:48 INFO  LoginPage:43 - Login Page Displayed
+2017-05-21 22:26:50 INFO  LoginPage:73 - User details entered
+2017-05-21 22:26:56 INFO  LoginPage:59 - User details entered and click Login button
+2017-05-21 22:26:56 INFO  FlightFinderPage:49 - Flight Finder Page loaded and Elements are Initialized
+2017-05-21 22:26:56 INFO  FlightFinderPage:61 - Flight Finder Page loaded successfully
+2017-05-21 22:26:57 INFO  FlightFinderPage:141 - Flight Type Selected
+2017-05-21 22:26:59 INFO  FlightFinderPage:105 - Flight details entered
+2017-05-21 22:27:00 INFO  FlightFinderPage:124 - Flight Service Class Type Selected
+2017-05-21 22:27:04 INFO  FlightFinderPage:77 - Flight details entered and navigated to Flight Selection Page
+2017-05-21 22:27:04 INFO  FlightSelectionPage:35 - Flight Selection Page loaded and Elements are Initialized
+2017-05-21 22:27:04 INFO  FlightSelectionPage:46 - Flight Selection Page loaded successfully
+2017-05-21 22:27:04 INFO  FlightSelectionPage:59 - Unified Airlines 363 label is correctly displayed
+2017-05-21 22:27:04 INFO  FlightSelectionPage:74 - Unified Airlines 363 Price is correctly displayed
+2017-05-21 22:27:07 INFO  FlightSelectionPage:88 - Click Continue button and navigated to Flight Booking Page
+2017-05-21 22:27:07 INFO  FlightBookingPage:58 - Flight Booking page loaded and Elements are Initialized
+2017-05-21 22:27:08 INFO  FlightBookingPage:71 - Flight Booking Page loaded successfully
+2017-05-21 22:27:12 INFO  FlightBookingPage:91 - Passenger Credit Card details are entered
+2017-05-21 22:27:12 INFO  FlightBookingPage:58 - Flight Booking page loaded and Elements are Initialized
+2017-05-21 22:27:16 INFO  FlightBookingPage:148 - Passenger details entered
+2017-05-21 22:27:22 INFO  FlightBookingPage:112 - Passenger details entered and navigated to Flight Confirmation Page
+2017-05-21 22:27:22 INFO  FlightConfirmationPage:36 - Flight Confirmation Page loaded and Elements are Initialized
+2017-05-21 22:27:22 INFO  FlightConfirmationPage:48 - Flight Booking Confirmation Page loaded successfully
+2017-05-21 22:27:26 INFO  FlightConfirmationPage:61 - User click Logout Button successfully
+2017-05-21 22:27:26 INFO  LoginPage:31 - LoginPage loaded and Elements are Initialized
+2017-05-21 22:27:26 INFO  LoginPage:43 - Login Page Displayed
+2017-05-21 22:33:10 INFO  HeaderPanel:30 - Panel loaded and Elements are Initialized
+2017-05-21 22:33:10 INFO  HomePage:30 - HomePage loaded and Elements are Initialized
+2017-05-21 22:33:10 INFO  HomePage:42 - Home Page loaded successfully
+2017-05-21 22:33:11 INFO  HomePage:75 - Click SingOn button and navigated to Login Page
+2017-05-21 22:33:11 INFO  LoginPage:31 - LoginPage loaded and Elements are Initialized
+2017-05-21 22:33:11 INFO  LoginPage:43 - Login Page Displayed
+2017-05-21 22:33:13 INFO  LoginPage:73 - User details entered
+2017-05-21 22:33:18 INFO  LoginPage:59 - User details entered and click Login button
+2017-05-21 22:33:19 INFO  FlightFinderPage:49 - Flight Finder Page loaded and Elements are Initialized
+2017-05-21 22:33:19 INFO  FlightFinderPage:61 - Flight Finder Page loaded successfully
+2017-05-21 22:33:20 INFO  FlightFinderPage:141 - Flight Type Selected
+2017-05-21 22:34:01 INFO  FlightFinderPage:105 - Flight details entered
+2017-05-21 22:34:02 INFO  FlightFinderPage:124 - Flight Service Class Type Selected
+2017-05-21 22:34:06 INFO  FlightFinderPage:77 - Flight details entered and navigated to Flight Selection Page
+2017-05-21 22:34:07 INFO  FlightSelectionPage:35 - Flight Selection Page loaded and Elements are Initialized
+2017-05-21 22:34:07 INFO  FlightSelectionPage:46 - Flight Selection Page loaded successfully
+2017-05-21 22:34:07 INFO  FlightSelectionPage:59 - Unified Airlines 363 label is correctly displayed
+2017-05-21 22:34:07 INFO  FlightSelectionPage:74 - Unified Airlines 363 Price is correctly displayed
+2017-05-21 22:34:09 INFO  FlightSelectionPage:88 - Click Continue button and navigated to Flight Booking Page
+2017-05-21 22:34:09 INFO  FlightBookingPage:58 - Flight Booking page loaded and Elements are Initialized
+2017-05-21 22:34:10 INFO  FlightBookingPage:71 - Flight Booking Page loaded successfully
+2017-05-21 22:34:14 INFO  FlightBookingPage:91 - Passenger Credit Card details are entered
+2017-05-21 22:34:14 INFO  FlightBookingPage:58 - Flight Booking page loaded and Elements are Initialized
+2017-05-21 22:34:18 INFO  FlightBookingPage:148 - Passenger details entered
+2017-05-21 22:34:24 INFO  FlightBookingPage:112 - Passenger details entered and navigated to Flight Confirmation Page
+2017-05-21 22:34:24 INFO  FlightConfirmationPage:36 - Flight Confirmation Page loaded and Elements are Initialized
+2017-05-21 22:34:24 INFO  FlightConfirmationPage:48 - Flight Booking Confirmation Page loaded successfully
+2017-05-21 22:36:44 INFO  FlightConfirmationPage:61 - User click Logout Button successfully
+2017-05-21 22:36:44 INFO  LoginPage:31 - LoginPage loaded and Elements are Initialized
+2017-05-21 22:36:44 INFO  LoginPage:43 - Login Page Displayed
+2017-05-21 22:39:17 INFO  HeaderPanel:30 - Panel loaded and Elements are Initialized
+2017-05-21 22:39:17 INFO  HomePage:30 - HomePage loaded and Elements are Initialized
+2017-05-21 22:39:17 INFO  HomePage:42 - Home Page loaded successfully
+2017-05-21 22:39:18 INFO  HomePage:75 - Click SingOn button and navigated to Login Page
+2017-05-21 22:39:18 INFO  LoginPage:31 - LoginPage loaded and Elements are Initialized
+2017-05-21 22:39:18 INFO  LoginPage:43 - Login Page Displayed
+2017-05-21 22:39:20 INFO  LoginPage:73 - User details entered
+2017-05-21 22:39:25 INFO  LoginPage:59 - User details entered and click Login button
+2017-05-21 22:39:25 INFO  FlightFinderPage:49 - Flight Finder Page loaded and Elements are Initialized
+2017-05-21 22:39:25 INFO  FlightFinderPage:61 - Flight Finder Page loaded successfully
+2017-05-21 22:39:26 INFO  FlightFinderPage:141 - Flight Type Selected
+2017-05-21 22:39:28 INFO  FlightFinderPage:105 - Flight details entered
+2017-05-21 22:39:29 INFO  FlightFinderPage:124 - Flight Service Class Type Selected
+2017-05-21 22:39:34 INFO  FlightFinderPage:77 - Flight details entered and navigated to Flight Selection Page
+2017-05-21 22:39:34 INFO  FlightSelectionPage:35 - Flight Selection Page loaded and Elements are Initialized
+2017-05-21 22:39:34 INFO  FlightSelectionPage:46 - Flight Selection Page loaded successfully
+2017-05-21 22:39:34 INFO  FlightSelectionPage:59 - Unified Airlines 363 label is correctly displayed
+2017-05-21 22:39:34 INFO  FlightSelectionPage:74 - Unified Airlines 363 Price is correctly displayed
+2017-05-21 22:39:36 INFO  FlightSelectionPage:88 - Click Continue button and navigated to Flight Booking Page
+2017-05-21 22:39:36 INFO  FlightBookingPage:58 - Flight Booking page loaded and Elements are Initialized
+2017-05-21 22:39:37 INFO  FlightBookingPage:71 - Flight Booking Page loaded successfully
+2017-05-21 22:39:41 INFO  FlightBookingPage:91 - Passenger Credit Card details are entered
+2017-05-21 22:39:41 INFO  FlightBookingPage:58 - Flight Booking page loaded and Elements are Initialized
+2017-05-21 22:39:45 INFO  FlightBookingPage:148 - Passenger details entered
+2017-05-21 22:39:51 INFO  FlightBookingPage:112 - Passenger details entered and navigated to Flight Confirmation Page
+2017-05-21 22:39:51 INFO  FlightConfirmationPage:36 - Flight Confirmation Page loaded and Elements are Initialized
+2017-05-21 22:39:51 INFO  FlightConfirmationPage:48 - Flight Booking Confirmation Page loaded successfully
+2017-05-21 22:39:55 INFO  FlightConfirmationPage:61 - User click Logout Button successfully
+2017-05-21 22:39:55 INFO  LoginPage:31 - LoginPage loaded and Elements are Initialized
+2017-05-21 22:39:55 INFO  LoginPage:43 - Login Page Displayed
+2017-05-21 22:40:02 INFO  HeaderPanel:30 - Panel loaded and Elements are Initialized
+2017-05-21 22:40:02 INFO  HomePage:30 - HomePage loaded and Elements are Initialized
+2017-05-21 22:40:02 INFO  HomePage:42 - Home Page loaded successfully
+2017-05-21 22:40:03 INFO  HomePage:75 - Click SingOn button and navigated to Login Page
+2017-05-21 22:40:03 INFO  LoginPage:31 - LoginPage loaded and Elements are Initialized
+2017-05-21 22:40:03 INFO  LoginPage:43 - Login Page Displayed
+2017-05-21 22:40:05 INFO  LoginPage:73 - User details entered
+2017-05-21 22:40:10 INFO  LoginPage:59 - User details entered and click Login button
+2017-05-21 22:40:10 INFO  FlightFinderPage:49 - Flight Finder Page loaded and Elements are Initialized
+2017-05-21 22:40:10 INFO  FlightFinderPage:61 - Flight Finder Page loaded successfully
+2017-05-21 22:40:11 INFO  FlightFinderPage:141 - Flight Type Selected
+2017-05-21 22:40:13 INFO  FlightFinderPage:105 - Flight details entered
+2017-05-21 22:40:14 INFO  FlightFinderPage:124 - Flight Service Class Type Selected
+2017-05-21 22:40:18 INFO  FlightFinderPage:77 - Flight details entered and navigated to Flight Selection Page
+2017-05-21 22:40:19 INFO  FlightSelectionPage:35 - Flight Selection Page loaded and Elements are Initialized
+2017-05-21 22:40:19 INFO  FlightSelectionPage:46 - Flight Selection Page loaded successfully
+2017-05-21 22:40:19 INFO  FlightSelectionPage:59 - Unified Airlines 363 label is correctly displayed
+2017-05-21 22:40:19 INFO  FlightSelectionPage:74 - Unified Airlines 363 Price is correctly displayed
+2017-05-21 22:40:21 INFO  FlightSelectionPage:88 - Click Continue button and navigated to Flight Booking Page
+2017-05-21 22:40:21 INFO  FlightBookingPage:58 - Flight Booking page loaded and Elements are Initialized
+2017-05-21 22:40:22 INFO  FlightBookingPage:71 - Flight Booking Page loaded successfully
+2017-05-21 22:40:26 INFO  FlightBookingPage:91 - Passenger Credit Card details are entered
+2017-05-21 22:40:26 INFO  FlightBookingPage:58 - Flight Booking page loaded and Elements are Initialized
+2017-05-21 22:40:30 INFO  FlightBookingPage:148 - Passenger details entered
+2017-05-21 22:40:36 INFO  FlightBookingPage:112 - Passenger details entered and navigated to Flight Confirmation Page
+2017-05-21 22:40:36 INFO  FlightConfirmationPage:36 - Flight Confirmation Page loaded and Elements are Initialized
+2017-05-21 22:40:36 INFO  FlightConfirmationPage:48 - Flight Booking Confirmation Page loaded successfully
+2017-05-21 22:40:40 INFO  FlightConfirmationPage:61 - User click Logout Button successfully
+2017-05-21 22:40:40 INFO  LoginPage:31 - LoginPage loaded and Elements are Initialized
+2017-05-21 22:40:40 INFO  LoginPage:43 - Login Page Displayed
+2017-05-30 16:40:11 INFO  HeaderPanel:30 - Panel loaded and Elements are Initialized
+2017-05-30 16:40:11 INFO  HomePage:30 - HomePage loaded and Elements are Initialized
+2017-05-30 16:40:11 INFO  HomePage:42 - Home Page loaded successfully
+2017-05-30 16:40:11 INFO  HomePage:53 - Home Page Header Panel is displayed
+2017-05-30 16:40:12 INFO  HomePage:64 - Register Link Clicked and navigated to Register Page
+2017-05-30 16:40:12 INFO  RegistrationPage:55 - Registration Page loaded and Elements are Initialized
+2017-05-30 16:40:12 INFO  RegistrationPage:67 - Register Page loaded successfully
+2017-05-30 16:40:27 INFO  RegistrationPage:96 - User enter Registration Page and navigate to Register Success Page
+2017-05-30 16:40:28 INFO  RegistrationSuccessPage:29 - Registration Page loaded and Elements are Initialized
+2017-05-30 16:40:28 INFO  RegistrationSuccessPage:41 - Registration Success Page loaded successfully
+2017-05-30 16:40:28 INFO  HeaderPanel:30 - Panel loaded and Elements are Initialized
+2017-05-30 16:40:32 INFO  HeaderPanel:76 - User click Sign Off Button successfully
+2017-05-30 16:40:32 INFO  LoginPage:31 - LoginPage loaded and Elements are Initialized
+2017-05-30 16:40:32 INFO  LoginPage:43 - Login Page Displayed
+2017-05-30 16:43:22 INFO  HeaderPanel:30 - Panel loaded and Elements are Initialized
+2017-05-30 16:43:22 INFO  HomePage:30 - HomePage loaded and Elements are Initialized
+2017-05-30 16:43:22 INFO  HomePage:42 - Home Page loaded successfully
+2017-05-30 16:43:23 INFO  HomePage:75 - Click SingOn button and navigated to Login Page
+2017-05-30 16:43:23 INFO  LoginPage:31 - LoginPage loaded and Elements are Initialized
+2017-05-30 16:43:23 INFO  LoginPage:43 - Login Page Displayed
+2017-05-30 16:43:25 INFO  LoginPage:73 - User details entered
+2017-05-30 16:43:30 INFO  LoginPage:59 - User details entered and click Login button
+2017-05-30 16:43:30 INFO  FlightFinderPage:49 - Flight Finder Page loaded and Elements are Initialized
+2017-05-30 16:43:30 INFO  FlightFinderPage:61 - Flight Finder Page loaded successfully
+2017-05-30 16:43:31 INFO  FlightFinderPage:141 - Flight Type Selected
+2017-05-30 16:43:33 INFO  FlightFinderPage:105 - Flight details entered
+2017-05-30 16:43:34 INFO  FlightFinderPage:124 - Flight Service Class Type Selected
+2017-05-30 16:43:38 INFO  FlightFinderPage:77 - Flight details entered and navigated to Flight Selection Page
+2017-05-30 16:43:39 INFO  FlightSelectionPage:35 - Flight Selection Page loaded and Elements are Initialized
+2017-05-30 16:43:39 INFO  FlightSelectionPage:46 - Flight Selection Page loaded successfully
+2017-05-30 16:43:39 INFO  FlightSelectionPage:59 - Unified Airlines 363 label is correctly displayed
+2017-05-30 16:43:39 INFO  FlightSelectionPage:74 - Unified Airlines 363 Price is correctly displayed
+2017-05-30 16:43:41 INFO  FlightSelectionPage:88 - Click Continue button and navigated to Flight Booking Page
+2017-05-30 16:43:41 INFO  FlightBookingPage:58 - Flight Booking page loaded and Elements are Initialized
+2017-05-30 16:43:42 INFO  FlightBookingPage:71 - Flight Booking Page loaded successfully
+2017-05-30 16:43:46 INFO  FlightBookingPage:91 - Passenger Credit Card details are entered
+2017-05-30 16:43:46 INFO  FlightBookingPage:58 - Flight Booking page loaded and Elements are Initialized
+2017-05-30 16:43:50 INFO  FlightBookingPage:148 - Passenger details entered
+2017-05-30 16:43:56 INFO  FlightBookingPage:112 - Passenger details entered and navigated to Flight Confirmation Page
+2017-05-30 16:43:56 INFO  FlightConfirmationPage:36 - Flight Confirmation Page loaded and Elements are Initialized
+2017-05-30 16:43:56 INFO  FlightConfirmationPage:48 - Flight Booking Confirmation Page loaded successfully
+2017-05-30 16:44:00 INFO  FlightConfirmationPage:61 - User click Logout Button successfully
+2017-05-30 16:44:00 INFO  LoginPage:31 - LoginPage loaded and Elements are Initialized
+2017-05-30 16:44:00 INFO  LoginPage:43 - Login Page Displayed
