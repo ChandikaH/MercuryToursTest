@@ -1,7 +1,8 @@
 package com.test.qa.pageobjects.utils;
-
+import io.github.bonigarcia.wdm.WebDriverManager;
 import org.openqa.selenium.WebDriver;
 import org.openqa.selenium.chrome.ChromeDriver;
+import org.openqa.selenium.chrome.ChromeOptions;
 import org.testng.annotations.AfterMethod;
 import org.testng.annotations.BeforeMethod;
 
@@ -21,8 +22,11 @@ public class TestBase {
      */
     @BeforeMethod(alwaysRun = true)
     public void initWebDriver() {
-        System.setProperty("webdriver.chrome.driver", webDriverLocation);
-        driver = new ChromeDriver();
+        ChromeOptions chromeOptions = new ChromeOptions();
+        WebDriverManager.chromedriver().setup();
+        driver = new ChromeDriver(chromeOptions);
+        //System.setProperty("webdriver.chrome.driver", webDriverLocation);
+        //driver = new ChromeDriver();
         driver.manage().window().maximize();
     }
 
